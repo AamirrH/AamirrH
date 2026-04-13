@@ -37,7 +37,7 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-boot-final.png" height="47" alt="Spring Boot" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-mvc.png" height="47" alt="Spring MVC" />
+  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-mvc-finalll.png" height="47" alt="Spring MVC" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-data.png" height="47" alt="Spring Data JPA" />
   <img width="12" />
