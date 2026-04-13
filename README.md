@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-mvc.png" height="47" alt="Spring MVC" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-data-jpa.png" height="47" alt="Spring Data JPA" />
+  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-data.png" height="47" alt="Spring Data JPA" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-security.png" height="47" alt="Spring Security" />
   <img width="12" />
