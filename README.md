@@ -1,4 +1,3 @@
-
 <h2 align="left">Hi! My Name is Aamir Hussain.</h2>
 
 ###
@@ -36,25 +35,27 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="47" alt="spring boot" title="Spring Boot" />
+  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-boot.png" height="47" alt="Spring Boot" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="47" alt="spring security" title="Spring Security" />
+  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-mvc.png" height="47" alt="Spring MVC" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="47" alt="spring data jpa" title="Spring Data JPA" />
+  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-data-jpa.png" height="47" alt="Spring Data JPA" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="47" alt="spring web mvc" title="Spring Web MVC" />
+  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-security.png" height="47" alt="Spring Security" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="47" alt="hibernate" title="Hibernate" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="47" alt="Hibernate" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="47" alt="apache" title="Apache" />
+  <img src="https://skillicons.dev/icons?i=maven" height="47" alt="Maven" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="47" alt="mysql" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="47" alt="Apache" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="47" alt="postgresql" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="47" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="47" alt="tomcat" title="Apache Tomcat" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="47" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="47" alt="oracle" title="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="47" alt="Tomcat" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="47" alt="Oracle" />
 </div>
 
 ###
@@ -68,7 +69,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="47" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="47" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="47" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="47" alt="googlecloud logo"  />
   <img width="12" />
@@ -98,5 +99,3 @@
 ###
 
 <br clear="both">
-
-
