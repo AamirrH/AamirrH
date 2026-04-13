@@ -45,9 +45,9 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-sec-final.png" height="70" alt="Spring Security" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="70" alt="Hibernate" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="70" alt="Hibernate" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="70" alt="Maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="70" alt="Maven" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="70" alt="Apache" />
   <img width="12" />
