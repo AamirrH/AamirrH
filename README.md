@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-data.png" height="47" alt="Spring Data JPA" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-security.png" height="47" alt="Spring Security" />
+  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-security (1).png" height="47" alt="Spring Security" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=hibernate" height="47" alt="Hibernate" />
   <img width="12" />
