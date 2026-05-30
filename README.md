@@ -43,31 +43,33 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="63" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="63" alt="Spring" title="Spring" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-boot-final.png" height="63" alt="Spring Boot" />
+  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-boot-final.png" height="63" alt="Spring Boot" title="Spring Boot" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-mvc-finalll.png" height="63" alt="Spring MVC" />
+  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-mvc-finalll.png" height="63" alt="Spring MVC" title="Spring Web MVC" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-data.png" height="63" alt="Spring Data JPA" />
+  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-data.png" height="63" alt="Spring Data JPA" title="Spring Data JPA" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-sec-final.png" height="63" alt="Spring Security" />
+  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/spring-sec-final.png" height="63" alt="Spring Security" title="Spring Security" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="63" alt="Hibernate" />
+  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/26137419.png" height="63" alt="Resilience4J" title="Resilience4J" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="63" alt="Maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="63" alt="Hibernate" title="Hibernate ORM" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="63" alt="gradle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="63" alt="Maven" title="Maven" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="63" alt="Apache" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="63" alt="gradle logo" title="Gradle"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="63" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="63" alt="Apache" title="Apache" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="63" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="63" alt="MySQL" title="MySQL Database" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="63" alt="Tomcat" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="63" alt="PostgreSQL" title="PostgreSQL Database" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="63" alt="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="63" alt="Tomcat" title="Apache Tomcat" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="63" alt="Oracle" title="Oracle Database" />
 </div>
 
 ###
