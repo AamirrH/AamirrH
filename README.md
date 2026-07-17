@@ -120,7 +120,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/kubernetes.png" height="63" alt="Kubernetes" title="Kubernetes" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/kafka.png" height="63" alt="Kafka" title="Apache Kafka" />
+  <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/Pi7_kafka.png" height="63" alt="Kafka" title="Apache Kafka" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/AamirrH/AamirrH/main/icons/ELK.png" height="63" alt="ELK Stack" title="ELK Stack (Elasticsearch, Logstash, Kibana)" />
   <img width="12" />
