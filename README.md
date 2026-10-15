@@ -84,12 +84,12 @@ public class AamirHussain implements Developer {
 
 **Frameworks**
 <p>
-  <img src="icons/spring-boot-final.png" width="70" height="70" alt="Spring Boot" title="Spring Boot"/>&nbsp;&nbsp;&nbsp;
-  <img src="icons/spring-mvc-finalll.png" width="70" height="70" alt="Spring Web MVC" title="Spring Web MVC"/>&nbsp;&nbsp;&nbsp;
-  <img src="icons/spring-data-jpa.png" width="70" height="70" alt="Spring Data JPA" title="Spring Data JPA"/>&nbsp;&nbsp;&nbsp;
-  <img src="icons/spring-sec-final.png" width="70" height="70" alt="Spring Security" title="Spring Security"/>&nbsp;&nbsp;&nbsp;
-  <img src="icons/websocket.svg" width="70" height="70" alt="WebSocket" title="WebSocket"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70" alt="React" title="React"/>
+  <img align="middle" src="icons/spring-boot-final.png" width="70" height="70" alt="Spring Boot" title="Spring Boot"/>&nbsp;&nbsp;&nbsp;
+  <img align="middle" src="icons/spring-mvc-finalll.png" width="120" height="120" alt="Spring Web MVC" title="Spring Web MVC"/>&nbsp;&nbsp;&nbsp;
+  <img align="middle" src="icons/spring-data.png" width="70" height="70" alt="Spring Data JPA" title="Spring Data JPA"/>&nbsp;&nbsp;&nbsp;
+  <img align="middle" src="icons/spring-sec-final.png" width="70" height="70" alt="Spring Security" title="Spring Security"/>&nbsp;&nbsp;&nbsp;
+  <img align="middle" src="icons/websocket.svg" width="70" height="70" alt="WebSocket" title="WebSocket"/>&nbsp;&nbsp;&nbsp;
+  <img align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70" alt="React" title="React"/>
 </p>
 
 **Databases**
@@ -103,12 +103,12 @@ public class AamirHussain implements Developer {
 
 **Cloud & DevOps**
 <p>
-  <img src="icons/docker.png" width="70" height="70" alt="Docker" title="Docker"/>&nbsp;&nbsp;&nbsp;
-  <img src="icons/kubernetes.png" width="115" height="120" alt="Kubernetes" title="Kubernetes"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="70" height="70" alt="Google Cloud" title="Google Cloud"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/railway/ffffff" width="70" height="70" alt="Railway" title="Railway"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/ffffff" width="70" height="70" alt="Vercel" title="Vercel"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="70" height="70" alt="GitHub Actions" title="GitHub Actions"/>
+  <img align="middle" src="icons/docker.png" width="70" height="70" alt="Docker" title="Docker"/>&nbsp;&nbsp;&nbsp;
+  <img align="middle" src="icons/kubernetes.png" width="115" height="120" alt="Kubernetes" title="Kubernetes"/>
+  <img align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="70" height="70" alt="Google Cloud" title="Google Cloud"/>&nbsp;&nbsp;&nbsp;
+  <img align="middle" src="https://cdn.simpleicons.org/railway/ffffff" width="70" height="70" alt="Railway" title="Railway"/>&nbsp;&nbsp;&nbsp;
+  <img align="middle" src="https://cdn.simpleicons.org/vercel/ffffff" width="70" height="70" alt="Vercel" title="Vercel"/>&nbsp;&nbsp;&nbsp;
+  <img align="middle" src="https://cdn.simpleicons.org/githubactions/2088FF" width="70" height="70" alt="GitHub Actions" title="GitHub Actions"/>
 </p>
 
 **Messaging & Caching**
